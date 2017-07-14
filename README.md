@@ -1,7 +1,7 @@
 # Teste para candidatos à vaga de _Front-End developer_
-> [![Logo Studa](https://s3-sa-east-1.amazonaws.com/studa-landing/logo-studa.png)]
+> ![Logo Studa](https://s3-sa-east-1.amazonaws.com/studa-landing/logo-studa.png)
 >
-> Todos que os interessados que fizerem _pull request_ receberão um _feedback_ do Studa.<br>
+> Todos os interessados que fizerem _pull request_ receberão um _feedback_ do Studa.<br>
 > Essa prova consiste em testar seus conhecimentos com **_HTML, CSS, JavaScript, MongoDB_** entre outras coisas. <br>
 > O conjunto de interfaces leva em média **8 horas** para ser implementado;
 
